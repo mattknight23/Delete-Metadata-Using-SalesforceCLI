@@ -1,0 +1,1 @@
+# Delete-Metadata-Using-SalesforceCLI
