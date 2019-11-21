@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>MyApexClass</members>
-        <members>MyApexClass2</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
-        <members>MyApexPage</members>
-        <name>ApexPage</name>
+        <members>Add_Related_Assets_to_Case</members>
+        <members>Approved_Transfer</members>
+        <members>Send_Case_to_Queue</members>
+        <members>Update_Related_Assets</members>
+        <members>Update_Transfer_Status</members>
+        <members>Transfer</members>
+        <members>Add_Case_Team_Member</members>
+        <name>Flow</name>
     </types>
 </Package>

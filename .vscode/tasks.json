@@ -10,7 +10,7 @@
                 "-u",
                 "${input:username}",
                 "-d",
-                "/Users/mattknight/Documents/DeployChanges",
+                "/Users/mattknight/Documents/github/Delete-Metadata-Using-SalesforceCLI/DeployChanges",
                 "-w",
                 "10"
             ],
